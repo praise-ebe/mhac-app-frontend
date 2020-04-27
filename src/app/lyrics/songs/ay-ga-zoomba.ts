@@ -1,5 +1,8 @@
-export const Ay_Gazoomba = {
+import { Song } from './song';
+
+export const Ay_Gazoomba: Song = {
     songTitle: "Ay Gazoomba",
+    audioURL: "assets/audio/Ay_Ga_Zoomba.mp3",
     lyrics: [
         {
             "lyric": "AY GAZOOMBA\nZOOMBA\nZOOMBA\nAY GAZOOMBA\nZOOMBA\nHEY!\n",
@@ -9,7 +12,7 @@ export const Ay_Gazoomba = {
             "endTimeSecond": "4"
         },
         {
-            "lyric": "AY GAZOOMBA\nZOOMBA\nZOOMBA\nAY GAZOOMBA\nZOOMBA\nHEY!\n(again)",
+            "lyric": "AY GAZOOMBA\nZOOMBA\nZOOMBA\nAY GAZOOMBA\nZOOMBA\nHEY!\n",
             "startTimeMinute": "0",
             "startTimeSecond": "5",
             "endTimeMinute": "0",
@@ -72,4 +75,4 @@ export const Ay_Gazoomba = {
             "endTimeSecond": "1"
         }
     ]
-}
+};
