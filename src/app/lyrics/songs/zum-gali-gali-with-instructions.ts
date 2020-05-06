@@ -239,7 +239,7 @@ export const Zum_Gali_Gali_Instructions: Song = {
             "endTimeSecond": "54"
         },
         {
-            "lyric": "Dari Rum Dum Dum Dari Dum",
+            "lyric": "Dari Rum Dum Dum Dari Rum",
             "person": "2",
             "isInstructions": "FALSE",
             "startTimeMinute": "0",
@@ -248,7 +248,7 @@ export const Zum_Gali_Gali_Instructions: Song = {
             "endTimeSecond": "58"
         },
         {
-            "lyric": "Dari Rum Dum Dum Dari Dum ",
+            "lyric": "Dari Rum Dum Dum Dari Rum ",
             "person": "1",
             "isInstructions": "FALSE",
             "startTimeMinute": "0",
@@ -257,7 +257,7 @@ export const Zum_Gali_Gali_Instructions: Song = {
             "endTimeSecond": "3"
         },
         {
-            "lyric": "Dari Rum Dum Dum Dari Dum",
+            "lyric": "Dari Rum Dum Dum Dari Rum",
             "person": "2",
             "isInstructions": "FALSE",
             "startTimeMinute": "1",
@@ -266,7 +266,7 @@ export const Zum_Gali_Gali_Instructions: Song = {
             "endTimeSecond": "7"
         },
         {
-            "lyric": "Dari Rum Dum Dum Dari Dum ",
+            "lyric": "Dari Rum Dum Dum Dari Rum ",
             "person": "1",
             "isInstructions": "FALSE",
             "startTimeMinute": "1",
