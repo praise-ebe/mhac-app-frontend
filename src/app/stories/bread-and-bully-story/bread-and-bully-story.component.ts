@@ -6,7 +6,11 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./bread-and-bully-story.component.scss']
 })
 export class BreadAndBullyStoryComponent implements OnInit {
-
+  
+  slideOpts = {
+    initialSlide: 0,
+    speed: 400
+  };
   constructor() { }
 
   ngOnInit(): void {
